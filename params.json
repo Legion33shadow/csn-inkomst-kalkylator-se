@@ -1,0 +1,16 @@
+{
+  "slug": "csn-inkomst-kalkylator-se",
+  "country": "SE",
+  "domain": "education_allowance",
+  "law_reference": "Studiest\u00f6dslag (1999:1395) & Fribeloppsgr\u00e4nser",
+  "sources": [
+    "https://www.csn.se"
+  ],
+  "sources_health": {
+    "https://www.csn.se": {
+      "status": 200,
+      "reachable": true
+    }
+  },
+  "signature_payload": "c2cae6629c04236d5ef04694634311ecbed2cd62bf47c18be4e04d5d995ffb40"
+}
