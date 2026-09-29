@@ -1,0 +1,13 @@
+{
+  "slug": "csn-inkomst-kalkylator-se",
+  "type": "calculator",
+  "country": "SE",
+  "category": "benefits",
+  "official_sources": [
+    "https://www.csn.se/",
+    "https://www.skatteverket.se/"
+  ],
+  "claim_state": "method_unverified",
+  "phoenix_ready": false,
+  "limitations": "CSN income limits depend on semester, aid type and year."
+}
